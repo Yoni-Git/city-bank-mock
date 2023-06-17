@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+/target/
+/bin/
+/out/
+
+# Maven
+target/
+pom.xml.lock
+
+# Gradle
+.gradle/
+build/
+
+# IDE specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Generated files
+generate_files.sh
